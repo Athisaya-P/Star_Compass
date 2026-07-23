@@ -1,0 +1,4 @@
+# StarCompass — environment variables
+# Get a free key at https://aistudio.google.com/apikey
+GEMINI_API_KEY=AQ.Ab8RN6IeGil5UPyL2y2JksQ9J2pWvSF0ZIzW5UqOoYqLvnBvYw
+GEMINI_MODEL=gemini-2.0-flash
